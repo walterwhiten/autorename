@@ -1,5 +1,6 @@
 https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 pyrofork==2.3.38
+pyrogram==2.0.93
 TgCrypto
 motor
 dnspython
@@ -8,3 +9,5 @@ Pillow
 aiohttp
 pytz
 psutil
+pyromod
+asyncio
